@@ -201,6 +201,10 @@ O projeto foi modularizado para garantir a legibilidade e a separação de respo
 *   **`turnoJogador()` e `turnoMonstro()`**: Executam as ações de cada lado.
 *   **`ganharXP()` e `aplicarBonusAleatorio()`**: Controlam a progressão do herói.
 
+## Link do vídeo exibindo funcionamento do jogo RPG
+
+[▶️ Assistir ao vídeo de demonstração](https://drive.google.com/file/d/1ZGqrNTFV0uV_mryAhwh8bUmCNOCKTHkt/view?usp=sharing)
+
 ## Finalização e agradecimento 
 Espero que goste. Obrigada por ter lido! ❤️
 

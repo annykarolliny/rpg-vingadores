@@ -40,7 +40,7 @@ typedef struct {
 typedef struct {
     char nome[50];
     char descricao[100];
-    int vida, vidaMax; // <--- Adicionado vidaMax
+    int vida, vidaMax;
     int ataque, defesa, nivel;
     int xpRecompensa;
     int derrotado;
